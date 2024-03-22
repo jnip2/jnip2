@@ -1,5 +1,5 @@
 <h1 align="center">Hey! I'm Joey.</h1>
-<h4 align="center">I'm a front-end web developer who has a passion for creating fun and memorable user experiences.</h4>
+<h4 align="center">I'm a front-end web developer with a passion for creating fun and memorable user experiences.</h4>
 <p align="center">Welcome to everything I have ever built and pushed to GitHub.</p>
 
 <div align="center" display="flex">
